@@ -1,66 +1,24 @@
 {
-	"about":"Soy Tertulio Perez y desarrollo videojuegos. Esta es información sobre mi.",
-	"aboutimg": "http://www.spa-puntacana.com/wp-content/uploads/2016/03/news_photo_04.jpg",
+	"about":"I'n Andre Meuricio Leon. I'm currently attending Cocoschool, studying video games development and programming and the purpose of this website is to keep a record of my projects as well of the improvement of my skills over the time.",
+	"aboutimg": "https://andreml875431051.files.wordpress.com/2022/11/perfil.jpeg?w=538",
 	"portfolio": [
 		{
-			"name": "Juego Poderoso",
+			"name": "Loner Boy",
 			"desc": "Es un juego y es una piola",
-			"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Stray_calico_cat_near_Sagami_River-01.jpg/640px-Stray_calico_cat_near_Sagami_River-01.jpg",
-			"src": "https://www.github.com"
+			"img": "https://img.itch.zone/aW1nLzcxNzg4OTEuanBn/105x83%23/fBF6Mf.jpg",
+			"src": "https://vicpdj.itch.io/loner-boy"
 		},
 		{
-			"name": "Juego pirulin",
+			"name": "Let the sound guide thee",
 			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
+			"img": "https://img.itch.zone/aW1nLzEwNDA1NTI3LnBuZw==/105x83%23/ydP4PI.png",
+			"src": "https://datbois2pro.itch.io/infinite-runner-amlg"
 		},
 		{
-			"name": "Juego pirulin",
+			"name": "Don't wake up",
 			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
-		},
-		{
-			"name": "Juego pirulin",
-			"desc": "Es un juego y es una piola",
-			"img": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg",
-			"src": "https://www.github.com"
+			"img": "https://img.itch.zone/aW1nLzg5MDgyNzIucG5n/105x83%23/viXS%2Fh.png",
+			"src": "https://datbois2pro.itch.io/dont-wake-up"
 		}
 	]
 }
